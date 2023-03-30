@@ -9,7 +9,7 @@ To run the website, follow the instructions below:
 git clone https://github.com/MartinDobos22/Website-for-restaurants.git
 # Navigate to the project directory using the command below:
 
-cd repository-name
+cd repository-name</br>
 Open the index.html file in your web browser by using the URL http://127.0.0.1:5500/index.html#.
 
 Explore the website and customize it to your liking.
